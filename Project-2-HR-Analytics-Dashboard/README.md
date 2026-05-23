@@ -27,7 +27,10 @@ helps in better workforce planning.
 - Low salary band employees were 3x more likely to leave
 
 ## Dashboard Preview
-🚧 Screenshot coming soon
+![Dashboard](HR_Dashboard.png)
+![Dashboard 01](HR_Dashboard01.png)
+![Dashboard 02](HR_Dashboard02.png)
+![Dashboard 03](HR_Dashboard03.png)
 
 ## Dataset
 - Source: IBM HR Analytics Dataset (Kaggle)
