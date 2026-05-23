@@ -27,7 +27,11 @@ and customer buying patterns.
 - Western region showed highest profit margin
 
 ## Dashboard Preview
-![Dashboard Preview](screenshots/ecommerce_dashboard.png)
+![Dashboard](Ecommerce_Dashboard.png)
+![Dashboard](Ecommerce_Dashboard01.png)
+![Dashboard](Ecommerce_Dashboard02.png)
+![Dashboard](Ecommerce_Dashboard03.png)
+![Dashboard](Ecommerce_Dashboard04.png)
 
 ## Dataset
 - Source: Kaggle Ecommerce Dataset
