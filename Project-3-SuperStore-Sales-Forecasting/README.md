@@ -30,7 +30,8 @@ This dashboard solves both needs in one view.
 - Forecast shows 12% sales growth expected in next 15 days
 
 ## Dashboard Preview
-🚧 Screenshot coming soon
+![Dashboard](superstore%20dashboard.jpg)
+![Forecasting](superstore%20forecasting.jpg)
 
 ## Dataset
 - Source: SuperStore Sales Dataset (Kaggle)
